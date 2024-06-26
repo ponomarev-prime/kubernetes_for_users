@@ -1,0 +1,5 @@
+image: alex501020/lesson1:v0.3
+replicas: 3
+secret:
+  name: load-secret
+  password: loadqwerty
